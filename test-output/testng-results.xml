@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="397" started-at="2021-07-15T20:23:35 IST" finished-at="2021-07-15T20:23:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="397" started-at="2021-07-15T20:23:35 IST" finished-at="2021-07-15T20:23:36 IST">
+      <class name="MavenPro.FirstArtft.RestassuredTest">
+        <test-method status="PASS" signature="Domestic()[pri:0, instance:MavenPro.FirstArtft.RestassuredTest@1808f31]" name="Domestic" duration-ms="37" started-at="2021-07-15T20:23:36 IST" finished-at="2021-07-15T20:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Domestic -->
+        <test-method status="PASS" signature="wild()[pri:0, instance:MavenPro.FirstArtft.RestassuredTest@1808f31]" name="wild" duration-ms="4" started-at="2021-07-15T20:23:36 IST" finished-at="2021-07-15T20:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wild -->
+      </class> <!-- MavenPro.FirstArtft.RestassuredTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
